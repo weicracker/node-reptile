@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.4"
+  }
+}
