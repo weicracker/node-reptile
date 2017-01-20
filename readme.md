@@ -4,9 +4,9 @@
 
 *运行测试代码*
 
-`
-npm install
-`
+
+`npm install`
+
 ---
 `gulp`
 ---
