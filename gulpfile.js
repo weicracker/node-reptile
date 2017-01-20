@@ -1,4 +1,4 @@
-var src = "./src";
+var src = "src/";
 var dist = "dist/";
 var gulp = require('gulp');
 var ts = require('gulp-typescript');
